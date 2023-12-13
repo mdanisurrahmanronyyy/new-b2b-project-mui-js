@@ -1,0 +1,37 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "editor.fontSize": 18,
+  "editor.letterSpacing": 0.6,
+  "editor.lineHeight": 25,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "JetBrains Mono",
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "eslint.validate": ["javascript"],
+  "javascript.validate.enable": false, //disable all built-in syntax checking
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "diffEditor.wordWrap": "on",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.trailingComma": "all",
+  "cSpell.userWords": ["hookform", "toastify"],
+  "terminal.integrated.env.linux": {},
+  "console-ninja.featureSet": "Community"
+}
