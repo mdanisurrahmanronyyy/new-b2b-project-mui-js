@@ -31,7 +31,7 @@ import Typography from '@mui/material/Typography';
 import { alpha, styled, useTheme } from '@mui/material/styles';
 import * as React from 'react';
 
-const drawerWidth = 240;
+const drawerWidth = 240; 
 
 
 const AppBar = styled(MuiAppBar, {
