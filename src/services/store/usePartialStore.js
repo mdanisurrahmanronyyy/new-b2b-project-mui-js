@@ -1,9 +1,7 @@
-import {create} from "zustand";
-import {createJSONStorage, persist} from "zustand/middleware";
+import { create } from "zustand";
+import { createJSONStorage, persist } from "zustand/middleware";
 
-const initialState = {
-
-};
+const initialState = {};
 
 let partialPaymentStore = (set) => ({
   partialObj:{},

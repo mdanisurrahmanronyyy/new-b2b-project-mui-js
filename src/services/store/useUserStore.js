@@ -1,5 +1,5 @@
 import { create } from "zustand";
-import { persist, createJSONStorage } from "zustand/middleware";
+import { createJSONStorage, persist } from "zustand/middleware";
 
 let userStore = (set) => ({
   isFirstTime: true,
@@ -26,9 +26,6 @@ let userStore = (set) => ({
   userId: null,
   setUserId: (val) => set({ userId: val }),
 
-  // balance: 0,
-  // setBalance: (val) => set({ balance: val }),
-
   bookingData: {},
   setBookingData: (val) => set({ bookingData: val }),
 
@@ -49,24 +46,18 @@ let userStore = (set) => ({
   setIsMailSentFromIssueBooking: (val) =>
     set({ isMailSentFromIssueBooking: val }),
 
-//Partial Payment
   partialPayment: false,
   setPartialPayment: (val) => set({ partialPayment: val }),
 
-// 2FA
   twoFA: false,
   setTwoFA: (val) => set({ twoFA: val }),
-
-
 });
 
-// persist the created state
 userStore = persist(userStore, {
   name: "ft-b2b-user",
   storage: createJSONStorage(() => sessionStorage),
 });
 
-// create the store
 const useUserStore = create(userStore);
 
 export default useUserStore;
