@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title_one": "Next Generation",
+    "title_two": "Travel Solutions",
+    "description": "Pack your bags while we make every possible arrangements for your travel",
+    "imgSrc": "/landingPage/hero-banner.gif",
+    "url_text": "Sign Up",
+    "url_text_signin": "Sign In",
+    "url": "/search"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "FirstTrip reportedly raised new funding through an investment round",
+    "portal_name": "Dhaka Tribune",
+    "imgSrc": "/whyFirstTrip/img1.png",
+    "url_text": "Learn More",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "title": "FirstTrip reportedly raised new funding through an investment round",
+    "portal_name": "Dhaka Tribune",
+    "imgSrc": "/whyFirstTrip/img2.png",
+    "url_text": "Learn More",
+    "url": "/"
+  },
+  {
+    "id": 3,
+    "title": "FirstTrip reportedly raised new funding through an investment round",
+    "portal_name": "Dhaka Tribune",
+    "imgSrc": "/whyFirstTrip/img3.png",
+    "url_text": "Learn More",
+    "url": "/"
+  },
+  {
+    "id": 4,
+    "title": "FirstTrip reportedly raised new funding through an investment round",
+    "portal_name": "Dhaka Tribune",
+    "imgSrc": "/whyFirstTrip/img4.png",
+    "url_text": "Learn More",
+    "url": "/"
+  }
+]

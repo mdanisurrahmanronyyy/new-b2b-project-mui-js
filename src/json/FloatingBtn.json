@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Phone",
+    "imgSrc": "/call.svg",
+    "url": "tel:09613123123",
+    "bg": "primary",
+    "target": false
+  },
+  {
+    "id": 2,
+    "title": "Whatsapp",
+    "imgSrc": "/whatsapp.svg",
+    "url": "https://wa.me/8801701208389",
+    "bg": "quaternary",
+    "target": true
+  }
+]

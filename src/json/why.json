@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Easy Booking",
+    "imgSrc": "/whyFirstTrip/booking.svg",
+    "bg": "primary",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "title": "24/7 Support",
+    "imgSrc": "/whyFirstTrip/support.svg",
+    "bg": "secondary",
+    "url": "/"
+  },
+  {
+    "id": 3,
+    "title": "Great Rewards",
+    "imgSrc": "/whyFirstTrip/rewards.svg",
+    "bg": "quaternary",
+    "url": "/"
+  },
+  {
+    "id": 4,
+    "title": "We Care",
+    "imgSrc": "/whyFirstTrip/care.svg",
+    "bg": "tertiary",
+    "url": "/"
+  }
+]

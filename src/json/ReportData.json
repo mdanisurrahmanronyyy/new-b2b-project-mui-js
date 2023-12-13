@@ -1,0 +1,160 @@
+[
+  {
+    "flightType": "Domestic",
+    "journeyType": "One Way",
+    "issueDate": "2022-08-25T11:26:37.6633333",
+    "gatewayCharge": 0,
+    "warnings": [],
+    "ticketInfoes": [
+      {
+        "passengerInfo": {
+          "nameElement": {
+            "title": "Mr",
+            "firstName": "Ratul",
+            "lastName": "Islam",
+            "middleName": ""
+          },
+          "contactInfo": {
+            "email": "ratul@gmail.com",
+            "phone": "01625987451",
+            "phoneCountryCode": "+88",
+            "countryCode": "BD",
+            "cityName": "Dhaka"
+          },
+          "documentInfo": {
+            "documentType": "",
+            "documentNumber": "",
+            "expireDate": "",
+            "frequentFlyerNumber": "",
+            "issuingCountry": "BD",
+            "nationality": "BD"
+          },
+          "passengerType": "ADT",
+          "gender": "Male",
+          "dateOfBirth": "1990-05-24T18:00:00Z",
+          "passengerKey": "0"
+        },
+        "ticketNumbers": ["7792406212520"]
+      }
+    ],
+    "flightInfo": {
+      "directions": [
+        [
+          {
+            "from": "DAC",
+            "to": "CGP",
+            "fromAirport": "Hazrat Shahjalal International Airport",
+            "toAirport": "Shah Amanat International Airport",
+            "platingCarrierCode": "BS",
+            "platingCarrierName": "US-bangla Airlines",
+            "stops": 0,
+            "segments": [
+              {
+                "from": "DAC",
+                "fromAirport": "Hazrat Shahjalal International Airport",
+                "to": "CGP",
+                "toAirport": "Shah Amanat International Airport",
+                "group": 1,
+                "departure": "2022-09-12 07:15:00",
+                "arrival": "2022-09-12 08:10:00",
+                "airline": "US-bangla Airlines",
+                "flightNumber": "101",
+                "segmentCodeRef": "SVRfTmV3fE9ET018LTEyMDUz",
+                "details": [
+                  {
+                    "origin": "DAC",
+                    "originName": null,
+                    "originTerminal": null,
+                    "destination": "CGP",
+                    "destinationName": null,
+                    "destinationTerminal": null,
+                    "departure": "2022-09-12 07:15:00",
+                    "arrival": "2022-09-12 08:10:00",
+                    "flightTime": "55m",
+                    "travelTime": "55m",
+                    "equipment": "ATR 72 - 600"
+                  }
+                ],
+                "serviceClass": "Y",
+                "plane": ["ATR 72 - 600"],
+                "duration": ["55"],
+                "techStops": [],
+                "bookingClass": "O",
+                "bookingCount": "USBDataModels.BookingClass",
+                "baggage": [
+                  {
+                    "units": "Kg",
+                    "amount": 20
+                  }
+                ],
+                "fareBasisCode": "ODOM",
+                "airlineCode": "BS"
+              }
+            ]
+          }
+        ]
+      ],
+      "bookingComponents": [
+        {
+          "discountPrice": -188.7,
+          "totalPrice": 4323.8,
+          "basePrice": 3774,
+          "taxes": 725,
+          "ait": 13.5,
+          "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+          "agentAdditionalPrice": 0
+        }
+      ],
+      "passengerFares": {
+        "adt": {
+          "discountPrice": -188.7,
+          "ait": 13.5,
+          "totalPrice": 4323.8,
+          "basePrice": 3774,
+          "equivalentBasePrice": 3585.3,
+          "taxes": 725,
+          "serviceCharge": 0,
+          "taxesBreakdown": [
+            {
+              "category": "BD",
+              "amount": 25
+            },
+            {
+              "category": "OW",
+              "amount": 500
+            },
+            {
+              "category": "P7",
+              "amount": 100
+            },
+            {
+              "category": "E5",
+              "amount": 30
+            },
+            {
+              "category": "P8",
+              "amount": 70
+            }
+          ]
+        },
+        "cnn": null,
+        "inf": null,
+        "ins": null
+      },
+      "passengerCounts": {
+        "cnn": 0,
+        "inf": 0,
+        "adt": 1,
+        "ins": 0
+      }
+    },
+    "pnr": "04DJAU",
+    "status": "Confirmed",
+    "remarks": null,
+    "itemCodeRef": "VExMNjQ0OTg3NjYwLTYzNzk3MDIzNTE0OTIyOTI4NHxPRE9NfFVTQmFuZ2xh",
+    "priceCodeRef": "VExMNjQ0OTg3NjYwLTYzNzk3MDIzNTYyMzgzOTQ5OXwxLTAtMHxVU0JhbmdsYQ==",
+    "bookingCodeRef": "VExMNjQ0OTg3NjYwLTYzNzk3MDIzNTkwODYxNDI2MHwwNERKQVV8VVNCYW5nbGE=",
+    "ticketCodeRef": "VExMNjQ0OTg3NjYwLTYzNzk3MDIzNTk1NTIxNDY1NnwwNERKQVV8VVNCYW5nbGE=",
+    "uniqueTransID": "TLL644987660"
+  }
+]

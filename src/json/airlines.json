@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "US Bangla",
+    "imgSrc": "/assets/images/partners/us-bangla.svg",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "title": "Singapore Airlines",
+    "imgSrc": "/assets/images/partners/singapore_airlines.svg",
+    "url": "/"
+  },
+  {
+    "id": 3,
+    "title": "Air Astra",
+    "imgSrc": "/assets/images/partners/airastra.svg",
+    "url": "/"
+  },
+  {
+    "id": 4,
+    "title": "Biman BD",
+    "imgSrc": "/assets/images/partners/biman_bd.svg",
+    "url": "/"
+  },
+  {
+    "id": 5,
+    "title": "Qatar Airways",
+    "imgSrc": "/assets/images/partners/quatar.svg",
+    "url": "/"
+  },
+  {
+    "id": 6,
+    "title": "Emirates",
+    "imgSrc": "/assets/images/partners/emirates.svg",
+    "url": "/"
+  }
+]

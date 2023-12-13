@@ -1,0 +1,5274 @@
+{
+  "item1": {
+    "airSearchResponses": [
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTVE9PXxTYWJyZQ==",
+        "totalPrice": 70980,
+        "basePrice": 33394,
+        "eqivqlBasePrice": 33394,
+        "taxes": 39039,
+        "platingCarrierName": "Turkish Airlines",
+        "platingCarrier": "TK",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "TK",
+              "platingCarrierName": "Turkish Airlines",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "IST",
+                  "toAirport": "Istanbul Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 06:35:00",
+                  "arrival": "2022-08-30 12:05:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "713",
+                  "segmentCodeRef": "MHwxfDIx",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "IST",
+                      "destinationName": "Istanbul Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 06:35:00",
+                      "arrival": "2022-08-30 12:05:00",
+                      "flightTime": "8h 30m",
+                      "travelTime": "8h 30m",
+                      "equipment": "Airbus-359"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-359"],
+                  "duration": ["8h 30m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TF2PXOW",
+                  "airlineCode": "TK"
+                },
+                {
+                  "from": "IST",
+                  "fromAirport": "Istanbul Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 13:30:00",
+                  "arrival": "2022-08-30 17:15:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "1",
+                  "segmentCodeRef": "MHwxfDI=",
+                  "details": [
+                    {
+                      "origin": "IST",
+                      "originName": "Istanbul Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "1",
+                      "departure": "2022-08-30 13:30:00",
+                      "arrival": "2022-08-30 17:15:00",
+                      "flightTime": "10h 45m",
+                      "travelTime": "10h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["10h 45m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TF2PXOW",
+                  "airlineCode": "TK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -1670,
+            "totalPrice": 70980,
+            "basePrice": 33394,
+            "taxes": 39039,
+            "ait": 217,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -1670,
+            "ait": 217,
+            "totalPrice": 70980,
+            "basePrice": 33394,
+            "equivalentBasePrice": -1305,
+            "taxes": 39039,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "TR",
+                "amount": 466
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "YRF",
+                "amount": 10888
+              },
+              {
+                "category": "YRF",
+                "amount": 14639
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTWc9PXxTYWJyZQ==",
+        "totalPrice": 70980,
+        "basePrice": 33394,
+        "eqivqlBasePrice": 33394,
+        "taxes": 39039,
+        "platingCarrierName": "Turkish Airlines",
+        "platingCarrier": "TK",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "TK",
+              "platingCarrierName": "Turkish Airlines",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "IST",
+                  "toAirport": "Istanbul Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 06:35:00",
+                  "arrival": "2022-08-30 12:05:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "713",
+                  "segmentCodeRef": "MHwyfDIx",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "IST",
+                      "destinationName": "Istanbul Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 06:35:00",
+                      "arrival": "2022-08-30 12:05:00",
+                      "flightTime": "8h 30m",
+                      "travelTime": "8h 30m",
+                      "equipment": "Airbus-359"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-359"],
+                  "duration": ["8h 30m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TF2PXOW",
+                  "airlineCode": "TK"
+                },
+                {
+                  "from": "IST",
+                  "fromAirport": "Istanbul Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 18:30:00",
+                  "arrival": "2022-08-30 22:15:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "11",
+                  "segmentCodeRef": "MHwyfDQy",
+                  "details": [
+                    {
+                      "origin": "IST",
+                      "originName": "Istanbul Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "1",
+                      "departure": "2022-08-30 18:30:00",
+                      "arrival": "2022-08-30 22:15:00",
+                      "flightTime": "10h 45m",
+                      "travelTime": "10h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["10h 45m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TF2PXOW",
+                  "airlineCode": "TK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -1670,
+            "totalPrice": 70980,
+            "basePrice": 33394,
+            "taxes": 39039,
+            "ait": 217,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -1670,
+            "ait": 217,
+            "totalPrice": 70980,
+            "basePrice": 33394,
+            "equivalentBasePrice": -1305,
+            "taxes": 39039,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "TR",
+                "amount": 466
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "YRF",
+                "amount": 10888
+              },
+              {
+                "category": "YRF",
+                "amount": 14639
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTXc9PXxTYWJyZQ==",
+        "totalPrice": 70980,
+        "basePrice": 33394,
+        "eqivqlBasePrice": 33394,
+        "taxes": 39039,
+        "platingCarrierName": "Turkish Airlines",
+        "platingCarrier": "TK",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "TK",
+              "platingCarrierName": "Turkish Airlines",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "IST",
+                  "toAirport": "Istanbul Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 23:00:00",
+                  "arrival": "2022-08-31 04:15:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "723",
+                  "segmentCodeRef": "MHwzfDY=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "0",
+                      "destination": "IST",
+                      "destinationName": "Istanbul Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 23:00:00",
+                      "arrival": "2022-08-31 04:15:00",
+                      "flightTime": "8h 15m",
+                      "travelTime": "8h 15m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-333"],
+                  "duration": ["8h 15m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TF2PXOW",
+                  "airlineCode": "TK"
+                },
+                {
+                  "from": "IST",
+                  "fromAirport": "Istanbul Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 07:40:00",
+                  "arrival": "2022-08-31 11:05:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "3",
+                  "segmentCodeRef": "MHwzfDQ3",
+                  "details": [
+                    {
+                      "origin": "IST",
+                      "originName": "Istanbul Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "1",
+                      "departure": "2022-08-31 07:40:00",
+                      "arrival": "2022-08-31 11:05:00",
+                      "flightTime": "10h 25m",
+                      "travelTime": "10h 25m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["10h 25m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TF2PXOW",
+                  "airlineCode": "TK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -1670,
+            "totalPrice": 70980,
+            "basePrice": 33394,
+            "taxes": 39039,
+            "ait": 217,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -1670,
+            "ait": 217,
+            "totalPrice": 70980,
+            "basePrice": 33394,
+            "equivalentBasePrice": -1305,
+            "taxes": 39039,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "TR",
+                "amount": 466
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "YRF",
+                "amount": 10888
+              },
+              {
+                "category": "YRF",
+                "amount": 14639
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTkE9PXxTYWJyZQ==",
+        "totalPrice": 70980,
+        "basePrice": 33394,
+        "eqivqlBasePrice": 33394,
+        "taxes": 39039,
+        "platingCarrierName": "Turkish Airlines",
+        "platingCarrier": "TK",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "TK",
+              "platingCarrierName": "Turkish Airlines",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "IST",
+                  "toAirport": "Istanbul Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 23:00:00",
+                  "arrival": "2022-08-31 04:15:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "723",
+                  "segmentCodeRef": "MHw0fDY=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "0",
+                      "destination": "IST",
+                      "destinationName": "Istanbul Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 23:00:00",
+                      "arrival": "2022-08-31 04:15:00",
+                      "flightTime": "8h 15m",
+                      "travelTime": "8h 15m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-333"],
+                  "duration": ["8h 15m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TF2PXOW",
+                  "airlineCode": "TK"
+                },
+                {
+                  "from": "IST",
+                  "fromAirport": "Istanbul Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 13:30:00",
+                  "arrival": "2022-08-31 17:15:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "1",
+                  "segmentCodeRef": "MHw0fDI=",
+                  "details": [
+                    {
+                      "origin": "IST",
+                      "originName": "Istanbul Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "1",
+                      "departure": "2022-08-31 13:30:00",
+                      "arrival": "2022-08-31 17:15:00",
+                      "flightTime": "10h 45m",
+                      "travelTime": "10h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["10h 45m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TF2PXOW",
+                  "airlineCode": "TK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -1670,
+            "totalPrice": 70980,
+            "basePrice": 33394,
+            "taxes": 39039,
+            "ait": 217,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -1670,
+            "ait": 217,
+            "totalPrice": 70980,
+            "basePrice": 33394,
+            "equivalentBasePrice": -1305,
+            "taxes": 39039,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "TR",
+                "amount": 466
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "YRF",
+                "amount": 10888
+              },
+              {
+                "category": "YRF",
+                "amount": 14639
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTlE9PXxTYWJyZQ==",
+        "totalPrice": 77790,
+        "basePrice": 65873,
+        "eqivqlBasePrice": 65873,
+        "taxes": 14968,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 17:05:00",
+                  "arrival": "2022-08-30 20:35:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "2331",
+                  "segmentCodeRef": "MHw1fDM=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "2",
+                      "departure": "2022-08-30 17:05:00",
+                      "arrival": "2022-08-30 20:35:00",
+                      "flightTime": "5h 30m",
+                      "travelTime": "5h 30m",
+                      "equipment": "Boeing-73H"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-73H"],
+                  "duration": ["5h 30m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "MIA",
+                  "toAirport": "Miami International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 03:10:00",
+                  "arrival": "2022-08-31 11:00:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "213",
+                  "segmentCodeRef": "MHw1fDMw",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "MIA",
+                      "destinationName": "Miami International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-31 03:10:00",
+                      "arrival": "2022-08-31 11:00:00",
+                      "flightTime": "15h 50m",
+                      "travelTime": "15h 50m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["15h 50m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "MIA",
+                  "fromAirport": "Miami International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 13:15:00",
+                  "arrival": "2022-08-31 16:07:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "6448",
+                  "segmentCodeRef": "MHw1fDQ=",
+                  "details": [
+                    {
+                      "origin": "MIA",
+                      "originName": "Miami International Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "5",
+                      "departure": "2022-08-31 13:15:00",
+                      "arrival": "2022-08-31 16:07:00",
+                      "flightTime": "2h 52m",
+                      "travelTime": "2h 52m",
+                      "equipment": "Airbus-321"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-321"],
+                  "duration": ["2h 52m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -3294,
+            "totalPrice": 77790,
+            "basePrice": 65873,
+            "taxes": 14968,
+            "ait": 243,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -3294,
+            "ait": 243,
+            "totalPrice": 77790,
+            "basePrice": 65873,
+            "equivalentBasePrice": -2574,
+            "taxes": 14968,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "F62",
+                "amount": 872
+              },
+              {
+                "category": "ZR2",
+                "amount": 125
+              },
+              {
+                "category": "AY",
+                "amount": 513
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "XF",
+                "amount": 412
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTmc9PXxTYWJyZQ==",
+        "totalPrice": 77790,
+        "basePrice": 65873,
+        "eqivqlBasePrice": 65873,
+        "taxes": 14968,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 17:05:00",
+                  "arrival": "2022-08-30 20:35:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "2331",
+                  "segmentCodeRef": "MHw2fDM=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "2",
+                      "departure": "2022-08-30 17:05:00",
+                      "arrival": "2022-08-30 20:35:00",
+                      "flightTime": "5h 30m",
+                      "travelTime": "5h 30m",
+                      "equipment": "Boeing-73H"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-73H"],
+                  "duration": ["5h 30m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "MIA",
+                  "toAirport": "Miami International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 03:10:00",
+                  "arrival": "2022-08-31 11:00:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "213",
+                  "segmentCodeRef": "MHw2fDMw",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "MIA",
+                      "destinationName": "Miami International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-31 03:10:00",
+                      "arrival": "2022-08-31 11:00:00",
+                      "flightTime": "15h 50m",
+                      "travelTime": "15h 50m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["15h 50m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "MIA",
+                  "fromAirport": "Miami International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 13:47:00",
+                  "arrival": "2022-08-31 16:57:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "6450",
+                  "segmentCodeRef": "MHw2fDQ2",
+                  "details": [
+                    {
+                      "origin": "MIA",
+                      "originName": "Miami International Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "5",
+                      "departure": "2022-08-31 13:47:00",
+                      "arrival": "2022-08-31 16:57:00",
+                      "flightTime": "3h 10m",
+                      "travelTime": "3h 10m",
+                      "equipment": "Airbus-320"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-320"],
+                  "duration": ["3h 10m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -3294,
+            "totalPrice": 77790,
+            "basePrice": 65873,
+            "taxes": 14968,
+            "ait": 243,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -3294,
+            "ait": 243,
+            "totalPrice": 77790,
+            "basePrice": 65873,
+            "equivalentBasePrice": -2574,
+            "taxes": 14968,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "F62",
+                "amount": 872
+              },
+              {
+                "category": "ZR2",
+                "amount": 125
+              },
+              {
+                "category": "AY",
+                "amount": 513
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "XF",
+                "amount": 412
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTnc9PXxTYWJyZQ==",
+        "totalPrice": 77790,
+        "basePrice": 65873,
+        "eqivqlBasePrice": 65873,
+        "taxes": 14968,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 17:05:00",
+                  "arrival": "2022-08-30 20:35:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "2331",
+                  "segmentCodeRef": "MHw3fDM=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "2",
+                      "departure": "2022-08-30 17:05:00",
+                      "arrival": "2022-08-30 20:35:00",
+                      "flightTime": "5h 30m",
+                      "travelTime": "5h 30m",
+                      "equipment": "Boeing-73H"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-73H"],
+                  "duration": ["5h 30m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "MIA",
+                  "toAirport": "Miami International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 03:10:00",
+                  "arrival": "2022-08-31 11:00:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "213",
+                  "segmentCodeRef": "MHw3fDMw",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "MIA",
+                      "destinationName": "Miami International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-31 03:10:00",
+                      "arrival": "2022-08-31 11:00:00",
+                      "flightTime": "15h 50m",
+                      "travelTime": "15h 50m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["15h 50m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "MIA",
+                  "fromAirport": "Miami International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 18:15:00",
+                  "arrival": "2022-08-31 21:17:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "6446",
+                  "segmentCodeRef": "MHw3fDI0",
+                  "details": [
+                    {
+                      "origin": "MIA",
+                      "originName": "Miami International Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "5",
+                      "departure": "2022-08-31 18:15:00",
+                      "arrival": "2022-08-31 21:17:00",
+                      "flightTime": "3h 2m",
+                      "travelTime": "3h 2m",
+                      "equipment": "Airbus-320"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-320"],
+                  "duration": ["3h 2m"],
+                  "techStops": [],
+                  "bookingClass": "T",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "TSSOPBD1",
+                  "airlineCode": "EK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -3294,
+            "totalPrice": 77790,
+            "basePrice": 65873,
+            "taxes": 14968,
+            "ait": 243,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -3294,
+            "ait": 243,
+            "totalPrice": 77790,
+            "basePrice": 65873,
+            "equivalentBasePrice": -2574,
+            "taxes": 14968,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "F62",
+                "amount": 872
+              },
+              {
+                "category": "ZR2",
+                "amount": 125
+              },
+              {
+                "category": "AY",
+                "amount": 513
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "XF",
+                "amount": 412
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTVRNPXxTYWJyZQ==",
+        "totalPrice": 124525,
+        "basePrice": 113448,
+        "eqivqlBasePrice": 113448,
+        "taxes": 16360,
+        "platingCarrierName": "Qatar Airways",
+        "platingCarrier": "QR",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "QR",
+              "platingCarrierName": "Qatar Airways",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DOH",
+                  "toAirport": "Hamad International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 03:20:00",
+                  "arrival": "2022-08-30 06:00:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "639",
+                  "segmentCodeRef": "MHwxM3w3",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DOH",
+                      "destinationName": "Hamad International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 03:20:00",
+                      "arrival": "2022-08-30 06:00:00",
+                      "flightTime": "5h 40m",
+                      "travelTime": "5h 40m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-333"],
+                  "duration": ["5h 40m"],
+                  "techStops": [],
+                  "bookingClass": "V",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "VJR4R1SO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "DOH",
+                  "fromAirport": "Hamad International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 07:50:00",
+                  "arrival": "2022-08-30 14:55:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "701",
+                  "segmentCodeRef": "MHwxM3wyOQ==",
+                  "details": [
+                    {
+                      "origin": "DOH",
+                      "originName": "Hamad International Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-30 07:50:00",
+                      "arrival": "2022-08-30 14:55:00",
+                      "flightTime": "14h 5m",
+                      "travelTime": "14h 5m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["14h 5m"],
+                  "techStops": [],
+                  "bookingClass": "V",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "VJR4R1SO",
+                  "airlineCode": "QR"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -5672,
+            "totalPrice": 124525,
+            "basePrice": 113448,
+            "taxes": 16360,
+            "ait": 389,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -5672,
+            "ait": 389,
+            "totalPrice": 124525,
+            "basePrice": 113448,
+            "equivalentBasePrice": -4432,
+            "taxes": 16360,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "G4",
+                "amount": 1508
+              },
+              {
+                "category": "PZ2",
+                "amount": 46
+              },
+              {
+                "category": "QA",
+                "amount": 1508
+              },
+              {
+                "category": "R9",
+                "amount": 252
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTVRRPXxTYWJyZQ==",
+        "totalPrice": 124525,
+        "basePrice": 113448,
+        "eqivqlBasePrice": 113448,
+        "taxes": 16360,
+        "platingCarrierName": "Qatar Airways",
+        "platingCarrier": "QR",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "QR",
+              "platingCarrierName": "Qatar Airways",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DOH",
+                  "toAirport": "Hamad International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 03:20:00",
+                  "arrival": "2022-08-30 06:00:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "639",
+                  "segmentCodeRef": "MHwxNHw3",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DOH",
+                      "destinationName": "Hamad International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 03:20:00",
+                      "arrival": "2022-08-30 06:00:00",
+                      "flightTime": "5h 40m",
+                      "travelTime": "5h 40m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-333"],
+                  "duration": ["5h 40m"],
+                  "techStops": [],
+                  "bookingClass": "V",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "VJR4R1SO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "DOH",
+                  "fromAirport": "Hamad International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 15:40:00",
+                  "arrival": "2022-08-30 22:45:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "705",
+                  "segmentCodeRef": "MHwxNHw0OA==",
+                  "details": [
+                    {
+                      "origin": "DOH",
+                      "originName": "Hamad International Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-30 15:40:00",
+                      "arrival": "2022-08-30 22:45:00",
+                      "flightTime": "14h 5m",
+                      "travelTime": "14h 5m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["14h 5m"],
+                  "techStops": [],
+                  "bookingClass": "V",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "VJR4R1SO",
+                  "airlineCode": "QR"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -5672,
+            "totalPrice": 124525,
+            "basePrice": 113448,
+            "taxes": 16360,
+            "ait": 389,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -5672,
+            "ait": 389,
+            "totalPrice": 124525,
+            "basePrice": 113448,
+            "equivalentBasePrice": -4432,
+            "taxes": 16360,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "G4",
+                "amount": 1508
+              },
+              {
+                "category": "PZ2",
+                "amount": 46
+              },
+              {
+                "category": "QA",
+                "amount": 1508
+              },
+              {
+                "category": "R9",
+                "amount": 252
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTVRVPXxTYWJyZQ==",
+        "totalPrice": 124525,
+        "basePrice": 113448,
+        "eqivqlBasePrice": 113448,
+        "taxes": 16360,
+        "platingCarrierName": "Qatar Airways",
+        "platingCarrier": "QR",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "QR",
+              "platingCarrierName": "Qatar Airways",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DOH",
+                  "toAirport": "Hamad International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 04:20:00",
+                  "arrival": "2022-08-30 07:00:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "643",
+                  "segmentCodeRef": "MHwxNXwzNA==",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DOH",
+                      "destinationName": "Hamad International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 04:20:00",
+                      "arrival": "2022-08-30 07:00:00",
+                      "flightTime": "5h 40m",
+                      "travelTime": "5h 40m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Airbus-333"],
+                  "duration": ["5h 40m"],
+                  "techStops": [],
+                  "bookingClass": "V",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "VJR4R1SO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "DOH",
+                  "fromAirport": "Hamad International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 15:40:00",
+                  "arrival": "2022-08-30 22:45:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "705",
+                  "segmentCodeRef": "MHwxNXw0OA==",
+                  "details": [
+                    {
+                      "origin": "DOH",
+                      "originName": "Hamad International Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-30 15:40:00",
+                      "arrival": "2022-08-30 22:45:00",
+                      "flightTime": "14h 5m",
+                      "travelTime": "14h 5m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["14h 5m"],
+                  "techStops": [],
+                  "bookingClass": "V",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "VJR4R1SO",
+                  "airlineCode": "QR"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -5672,
+            "totalPrice": 124525,
+            "basePrice": 113448,
+            "taxes": 16360,
+            "ait": 389,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -5672,
+            "ait": 389,
+            "totalPrice": 124525,
+            "basePrice": 113448,
+            "equivalentBasePrice": -4432,
+            "taxes": 16360,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "G4",
+                "amount": 1508
+              },
+              {
+                "category": "PZ2",
+                "amount": 46
+              },
+              {
+                "category": "QA",
+                "amount": 1508
+              },
+              {
+                "category": "R9",
+                "amount": 252
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTWpVPXxTYWJyZQ==",
+        "totalPrice": 160702,
+        "basePrice": 145561,
+        "eqivqlBasePrice": 145561,
+        "taxes": 21917,
+        "platingCarrierName": "Gulf Air",
+        "platingCarrier": "GF",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "GF",
+              "platingCarrierName": "Gulf Air",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "BAH",
+                  "toAirport": "Bahrain International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 05:40:00",
+                  "arrival": "2022-08-30 08:15:00",
+                  "airline": "Gulf Air",
+                  "flightNumber": "251",
+                  "segmentCodeRef": "MHwyNXw0NQ==",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "BAH",
+                      "destinationName": "Bahrain International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 05:40:00",
+                      "arrival": "2022-08-30 08:15:00",
+                      "flightTime": "5h 35m",
+                      "travelTime": "5h 35m",
+                      "equipment": "Boeing-789"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-789"],
+                  "duration": ["5h 35m"],
+                  "techStops": [],
+                  "bookingClass": "L",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "LBLITHBD",
+                  "airlineCode": "GF"
+                },
+                {
+                  "from": "BAH",
+                  "fromAirport": "Bahrain International Airport",
+                  "to": "LHR",
+                  "toAirport": "London Heathrow Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 10:25:00",
+                  "arrival": "2022-08-30 15:20:00",
+                  "airline": "Gulf Air",
+                  "flightNumber": "3",
+                  "segmentCodeRef": "MHwyNXw0Mw==",
+                  "details": [
+                    {
+                      "origin": "BAH",
+                      "originName": "Bahrain International Airport",
+                      "originTerminal": null,
+                      "destination": "LHR",
+                      "destinationName": "London Heathrow Airport",
+                      "destinationTerminal": "2",
+                      "departure": "2022-08-30 10:25:00",
+                      "arrival": "2022-08-30 15:20:00",
+                      "flightTime": "6h 55m",
+                      "travelTime": "6h 55m",
+                      "equipment": "Boeing-789"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-789"],
+                  "duration": ["6h 55m"],
+                  "techStops": [],
+                  "bookingClass": "L",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "LBLITHBD",
+                  "airlineCode": "GF"
+                },
+                {
+                  "from": "LHR",
+                  "fromAirport": "London Heathrow Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 17:00:00",
+                  "arrival": "2022-08-30 20:15:00",
+                  "airline": "Gulf Air",
+                  "flightNumber": "6607",
+                  "segmentCodeRef": "MHwyNXwyNQ==",
+                  "details": [
+                    {
+                      "origin": "LHR",
+                      "originName": "London Heathrow Airport",
+                      "originTerminal": "5",
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-30 17:00:00",
+                      "arrival": "2022-08-30 20:15:00",
+                      "flightTime": "8h 15m",
+                      "travelTime": "8h 15m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-77W"],
+                  "duration": ["8h 15m"],
+                  "techStops": [],
+                  "bookingClass": "L",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "LBLITHBD",
+                  "airlineCode": "GF"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -7278,
+            "totalPrice": 160702,
+            "basePrice": 145561,
+            "taxes": 21917,
+            "ait": 502,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -7278,
+            "ait": 502,
+            "totalPrice": 160702,
+            "basePrice": 145561,
+            "equivalentBasePrice": -5687,
+            "taxes": 21917,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "UB",
+                "amount": 4662
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "BH",
+                "amount": 244
+              },
+              {
+                "category": "HM",
+                "amount": 122
+              },
+              {
+                "category": "YRI",
+                "amount": 1281
+              },
+              {
+                "category": "YRI",
+                "amount": 1281
+              },
+              {
+                "category": "YRI",
+                "amount": 1281
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkxMjA2NDM0fFZFeE1OekEwTWpjeE9EWXROak0zT1RRMk1UYzROamt4TWpBMk5ETTBJekFqTWpZPXxTYWJyZQ==",
+        "totalPrice": 160702,
+        "basePrice": 145561,
+        "eqivqlBasePrice": 145561,
+        "taxes": 21917,
+        "platingCarrierName": "Gulf Air",
+        "platingCarrier": "GF",
+        "refundable": false,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "JFK",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "John F Kennedy International Airport",
+              "platingCarrierCode": "GF",
+              "platingCarrierName": "Gulf Air",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "BAH",
+                  "toAirport": "Bahrain International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 05:40:00",
+                  "arrival": "2022-08-30 08:15:00",
+                  "airline": "Gulf Air",
+                  "flightNumber": "251",
+                  "segmentCodeRef": "MHwyNnw0NQ==",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "BAH",
+                      "destinationName": "Bahrain International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 05:40:00",
+                      "arrival": "2022-08-30 08:15:00",
+                      "flightTime": "5h 35m",
+                      "travelTime": "5h 35m",
+                      "equipment": "Boeing-789"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-789"],
+                  "duration": ["5h 35m"],
+                  "techStops": [],
+                  "bookingClass": "L",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "LBLITHBD",
+                  "airlineCode": "GF"
+                },
+                {
+                  "from": "BAH",
+                  "fromAirport": "Bahrain International Airport",
+                  "to": "LHR",
+                  "toAirport": "London Heathrow Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 10:25:00",
+                  "arrival": "2022-08-30 15:20:00",
+                  "airline": "Gulf Air",
+                  "flightNumber": "3",
+                  "segmentCodeRef": "MHwyNnw0Mw==",
+                  "details": [
+                    {
+                      "origin": "BAH",
+                      "originName": "Bahrain International Airport",
+                      "originTerminal": null,
+                      "destination": "LHR",
+                      "destinationName": "London Heathrow Airport",
+                      "destinationTerminal": "2",
+                      "departure": "2022-08-30 10:25:00",
+                      "arrival": "2022-08-30 15:20:00",
+                      "flightTime": "6h 55m",
+                      "travelTime": "6h 55m",
+                      "equipment": "Boeing-789"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-789"],
+                  "duration": ["6h 55m"],
+                  "techStops": [],
+                  "bookingClass": "L",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "LBLITHBD",
+                  "airlineCode": "GF"
+                },
+                {
+                  "from": "LHR",
+                  "fromAirport": "London Heathrow Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 19:30:00",
+                  "arrival": "2022-08-30 22:40:00",
+                  "airline": "Gulf Air",
+                  "flightNumber": "4102",
+                  "segmentCodeRef": "MHwyNnwx",
+                  "details": [
+                    {
+                      "origin": "LHR",
+                      "originName": "London Heathrow Airport",
+                      "originTerminal": "5",
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-30 19:30:00",
+                      "arrival": "2022-08-30 22:40:00",
+                      "flightTime": "8h 10m",
+                      "travelTime": "8h 10m",
+                      "equipment": "Boeing-772"
+                    }
+                  ],
+                  "serviceClass": "Y",
+                  "plane": ["Boeing-772"],
+                  "duration": ["8h 10m"],
+                  "techStops": [],
+                  "bookingClass": "L",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "pieces",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "LBLITHBD",
+                  "airlineCode": "GF"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -7278,
+            "totalPrice": 160702,
+            "basePrice": 145561,
+            "taxes": 21917,
+            "ait": 502,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -7278,
+            "ait": 502,
+            "totalPrice": 160702,
+            "basePrice": 145561,
+            "equivalentBasePrice": -5687,
+            "taxes": 21917,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "E5",
+                "amount": 350
+              },
+              {
+                "category": "OW2",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 915
+              },
+              {
+                "category": "P8",
+                "amount": 915
+              },
+              {
+                "category": "UT3",
+                "amount": 4000
+              },
+              {
+                "category": "US2",
+                "amount": 1803
+              },
+              {
+                "category": "UB",
+                "amount": 4662
+              },
+              {
+                "category": "XA",
+                "amount": 363
+              },
+              {
+                "category": "XY2",
+                "amount": 641
+              },
+              {
+                "category": "YC",
+                "amount": 559
+              },
+              {
+                "category": "BH",
+                "amount": 244
+              },
+              {
+                "category": "HM",
+                "amount": 122
+              },
+              {
+                "category": "YRI",
+                "amount": 1281
+              },
+              {
+                "category": "YRI",
+                "amount": 1281
+              },
+              {
+                "category": "YRI",
+                "amount": 1281
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQXJjTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 171134,
+        "basePrice": 140244,
+        "eqivqlBasePrice": 140244,
+        "taxes": 37369,
+        "platingCarrierName": "Turkish Airlines",
+        "platingCarrier": "TK",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "TK",
+              "platingCarrierName": "Turkish Airlines",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "IST",
+                  "toAirport": "Istanbul Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 06:35:00",
+                  "arrival": "2022-08-30 12:05:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "713",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQURaTjZBQUFBQUE9PXxhR3pFQUpWcVdES0E5WE42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "IST",
+                      "destinationName": "Istanbul Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 06:35:00",
+                      "arrival": "2022-08-30 12:05:00",
+                      "flightTime": "8h 30m",
+                      "travelTime": "20h 40m",
+                      "equipment": "Airbus-359"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["359"],
+                  "duration": ["8h 30m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YFOW",
+                  "airlineCode": "TK"
+                },
+                {
+                  "from": "IST",
+                  "fromAirport": "Istanbul Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 13:30:00",
+                  "arrival": "2022-08-30 17:15:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "1",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQURaTjZBQUFBQUE9PXxhR3pFQUpWcVdES0EvWE42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "IST",
+                      "originName": "Istanbul Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "1",
+                      "departure": "2022-08-30 13:30:00",
+                      "arrival": "2022-08-30 17:15:00",
+                      "flightTime": "10h 45m",
+                      "travelTime": "20h 40m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["10h 45m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YFOW",
+                  "airlineCode": "TK"
+                }
+              ]
+            },
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "TK",
+              "platingCarrierName": "Turkish Airlines",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "IST",
+                  "toAirport": "Istanbul Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 23:00:00",
+                  "arrival": "2022-08-31 04:25:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "723",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQUdaTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FCWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "IST",
+                      "destinationName": "Istanbul Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 23:00:00",
+                      "arrival": "2022-08-31 04:25:00",
+                      "flightTime": "8h 25m",
+                      "travelTime": "22h 5m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["333"],
+                  "duration": ["8h 25m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YFOW",
+                  "airlineCode": "TK"
+                },
+                {
+                  "from": "IST",
+                  "fromAirport": "Istanbul Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 07:40:00",
+                  "arrival": "2022-08-31 11:05:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "3",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQUdaTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FEWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "IST",
+                      "originName": "Istanbul Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "1",
+                      "departure": "2022-08-31 07:40:00",
+                      "arrival": "2022-08-31 11:05:00",
+                      "flightTime": "10h 25m",
+                      "travelTime": "22h 5m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["10h 25m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YFOW",
+                  "airlineCode": "TK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -7012,
+            "totalPrice": 171134,
+            "basePrice": 140244,
+            "taxes": 37369,
+            "ait": 533,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -7012,
+            "ait": 533,
+            "totalPrice": 171134,
+            "basePrice": 140244,
+            "equivalentBasePrice": -5392,
+            "taxes": 37369,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "TR",
+                "amount": 464
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              },
+              {
+                "category": "YR",
+                "amount": 24154
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQXNjTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 171134,
+        "basePrice": 140244,
+        "eqivqlBasePrice": 140244,
+        "taxes": 37369,
+        "platingCarrierName": "Turkish Airlines",
+        "platingCarrier": "TK",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "TK",
+              "platingCarrierName": "Turkish Airlines",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "IST",
+                  "toAirport": "Istanbul Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 06:35:00",
+                  "arrival": "2022-08-30 12:05:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "713",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVlaTjZBQUFBQUE9PXxhR3pFQUpWcVdES0E5WE42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "IST",
+                      "destinationName": "Istanbul Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 06:35:00",
+                      "arrival": "2022-08-30 12:05:00",
+                      "flightTime": "8h 30m",
+                      "travelTime": "20h 40m",
+                      "equipment": "Airbus-359"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["359"],
+                  "duration": ["8h 30m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YFOW",
+                  "airlineCode": "TK"
+                },
+                {
+                  "from": "IST",
+                  "fromAirport": "Istanbul Airport",
+                  "to": "EWR",
+                  "toAirport": "Newark Liberty International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 18:35:00",
+                  "arrival": "2022-08-30 22:20:00",
+                  "airline": "Turkish Airlines",
+                  "flightNumber": "29",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVlaTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FGWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "IST",
+                      "originName": "Istanbul Airport",
+                      "originTerminal": null,
+                      "destination": "EWR",
+                      "destinationName": "Newark Liberty International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 18:35:00",
+                      "arrival": "2022-08-30 22:20:00",
+                      "flightTime": "10h 45m",
+                      "travelTime": "1d 1h 45m",
+                      "equipment": "Boeing-789"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["789"],
+                  "duration": ["10h 45m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YFOW",
+                  "airlineCode": "TK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -7012,
+            "totalPrice": 171134,
+            "basePrice": 140244,
+            "taxes": 37369,
+            "ait": 533,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -7012,
+            "ait": 533,
+            "totalPrice": 171134,
+            "basePrice": 140244,
+            "equivalentBasePrice": -5392,
+            "taxes": 37369,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "TR",
+                "amount": 464
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              },
+              {
+                "category": "YR",
+                "amount": 24154
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQUJkTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 300427,
+        "basePrice": 300831,
+        "eqivqlBasePrice": 300831,
+        "taxes": 13694,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 01:40:00",
+                  "arrival": "2022-08-30 04:30:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "585",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVBkTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FPWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "3",
+                      "departure": "2022-08-30 01:40:00",
+                      "arrival": "2022-08-30 04:30:00",
+                      "flightTime": "4h 50m",
+                      "travelTime": "22h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["4h 50m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOOWFBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 08:30:00",
+                  "arrival": "2022-08-30 14:25:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "201",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVBkTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FRWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "4",
+                      "departure": "2022-08-30 08:30:00",
+                      "arrival": "2022-08-30 14:25:00",
+                      "flightTime": "13h 55m",
+                      "travelTime": "22h 45m",
+                      "equipment": "Airbus-388"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["388"],
+                  "duration": ["13h 55m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOOWFBD1",
+                  "airlineCode": "EK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -15042,
+            "totalPrice": 300427,
+            "basePrice": 300831,
+            "taxes": 13694,
+            "ait": 944,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -15042,
+            "ait": 944,
+            "totalPrice": 300427,
+            "basePrice": 300831,
+            "equivalentBasePrice": -11567,
+            "taxes": 13694,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "F6",
+                "amount": 825
+              },
+              {
+                "category": "ZR",
+                "amount": 118
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQVNkTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 300427,
+        "basePrice": 300831,
+        "eqivqlBasePrice": 300831,
+        "taxes": 13694,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 01:40:00",
+                  "arrival": "2022-08-30 04:30:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "585",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVRhTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FPWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "3",
+                      "departure": "2022-08-30 01:40:00",
+                      "arrival": "2022-08-30 04:30:00",
+                      "flightTime": "4h 50m",
+                      "travelTime": "22h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["4h 50m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOOWFBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "EWR",
+                  "toAirport": "Newark Liberty International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 10:50:00",
+                  "arrival": "2022-08-30 21:20:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "209",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVRhTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FTWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "ATH",
+                      "destinationName": "Eleftherios Venizelos International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 10:50:00",
+                      "arrival": "2022-08-30 15:00:00",
+                      "flightTime": "5h 10m",
+                      "travelTime": "1d 5h 40m",
+                      "equipment": "Boeing-77W"
+                    },
+                    {
+                      "origin": "ATH",
+                      "originName": "Eleftherios Venizelos International Airport",
+                      "originTerminal": null,
+                      "destination": "EWR",
+                      "destinationName": "Newark Liberty International Airport",
+                      "destinationTerminal": "B",
+                      "departure": "2022-08-30 17:35:00",
+                      "arrival": "2022-08-30 21:20:00",
+                      "flightTime": "10h 45m",
+                      "travelTime": "1d 5h 40m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["18h 30m"],
+                  "techStops": [1],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOOWFBD1",
+                  "airlineCode": "EK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -15042,
+            "totalPrice": 300427,
+            "basePrice": 300831,
+            "taxes": 13694,
+            "ait": 944,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -15042,
+            "ait": 944,
+            "totalPrice": 300427,
+            "basePrice": 300831,
+            "equivalentBasePrice": -11567,
+            "taxes": 13694,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "F6",
+                "amount": 825
+              },
+              {
+                "category": "ZR",
+                "amount": 118
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQVRkTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 302989,
+        "basePrice": 300831,
+        "eqivqlBasePrice": 300831,
+        "taxes": 16249,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 10:15:00",
+                  "arrival": "2022-08-30 13:05:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "583",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQUFhTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FWWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "3",
+                      "departure": "2022-08-30 10:15:00",
+                      "arrival": "2022-08-30 13:05:00",
+                      "flightTime": "4h 50m",
+                      "travelTime": "1d 18h 40m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["4h 50m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOOWFBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "MXP",
+                  "toAirport": "Malpensa International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 15:45:00",
+                  "arrival": "2022-08-30 20:30:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "91",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQUFhTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FYWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "MXP",
+                      "destinationName": "Malpensa International Airport",
+                      "destinationTerminal": "1",
+                      "departure": "2022-08-30 15:45:00",
+                      "arrival": "2022-08-30 20:30:00",
+                      "flightTime": "6h 45m",
+                      "travelTime": "1d 18h 40m",
+                      "equipment": "Airbus-388"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["388"],
+                  "duration": ["6h 45m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOOWFBD1",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "MXP",
+                  "fromAirport": "Malpensa International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 16:10:00",
+                  "arrival": "2022-08-31 18:55:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "205",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQUFhTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FaWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "MXP",
+                      "originName": "Malpensa International Airport",
+                      "originTerminal": "1",
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "4",
+                      "departure": "2022-08-31 16:10:00",
+                      "arrival": "2022-08-31 18:55:00",
+                      "flightTime": "8h 45m",
+                      "travelTime": "1d 18h 40m",
+                      "equipment": "Airbus-388"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["388"],
+                  "duration": ["8h 45m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOOWFBD1",
+                  "airlineCode": "EK"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -15042,
+            "totalPrice": 302989,
+            "basePrice": 300831,
+            "taxes": 16249,
+            "ait": 951,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -15042,
+            "ait": 951,
+            "totalPrice": 302989,
+            "basePrice": 300831,
+            "equivalentBasePrice": -11567,
+            "taxes": 16249,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "F6",
+                "amount": 825
+              },
+              {
+                "category": "ZR",
+                "amount": 118
+              },
+              {
+                "category": "HB",
+                "amount": 604
+              },
+              {
+                "category": "IT",
+                "amount": 1591
+              },
+              {
+                "category": "MJ",
+                "amount": 129
+              },
+              {
+                "category": "VT",
+                "amount": 231
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQVZkTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 382982,
+        "basePrice": 385150,
+        "eqivqlBasePrice": 385150,
+        "taxes": 15887,
+        "platingCarrierName": "Qatar Airways",
+        "platingCarrier": "QR",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "QR",
+              "platingCarrierName": "Qatar Airways",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DOH",
+                  "toAirport": "Hamad International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 03:20:00",
+                  "arrival": "2022-08-30 06:00:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "639",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQWxkTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FmWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DOH",
+                      "destinationName": "Hamad International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 03:20:00",
+                      "arrival": "2022-08-30 06:00:00",
+                      "flightTime": "5h 40m",
+                      "travelTime": "21h 35m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["333"],
+                  "duration": ["5h 40m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "DOH",
+                  "fromAirport": "Hamad International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 07:50:00",
+                  "arrival": "2022-08-30 14:55:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "701",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQWxkTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FoWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DOH",
+                      "originName": "Hamad International Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-30 07:50:00",
+                      "arrival": "2022-08-30 14:55:00",
+                      "flightTime": "14h 5m",
+                      "travelTime": "21h 35m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["14h 5m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -19258,
+            "totalPrice": 382982,
+            "basePrice": 385150,
+            "taxes": 15887,
+            "ait": 1203,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -19258,
+            "ait": 1203,
+            "totalPrice": 382982,
+            "basePrice": 385150,
+            "equivalentBasePrice": -14809,
+            "taxes": 15887,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "G4",
+                "amount": 1427
+              },
+              {
+                "category": "PZ",
+                "amount": 44
+              },
+              {
+                "category": "QA",
+                "amount": 1427
+              },
+              {
+                "category": "R9",
+                "amount": 238
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQW9kTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 383295,
+        "basePrice": 385150,
+        "eqivqlBasePrice": 385150,
+        "taxes": 16199,
+        "platingCarrierName": "Qatar Airways",
+        "platingCarrier": "QR",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "QR",
+              "platingCarrierName": "Qatar Airways",
+              "stops": 1,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DOH",
+                  "toAirport": "Hamad International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 04:20:00",
+                  "arrival": "2022-08-30 07:00:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "643",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQTVhTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FIWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DOH",
+                      "destinationName": "Hamad International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 04:20:00",
+                      "arrival": "2022-08-30 07:00:00",
+                      "flightTime": "5h 40m",
+                      "travelTime": "1d 4h 25m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["333"],
+                  "duration": ["5h 40m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "DOH",
+                  "fromAirport": "Hamad International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-31 01:50:00",
+                  "arrival": "2022-08-31 09:00:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "9001",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQTVhTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FOWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DOH",
+                      "originName": "Hamad International Airport",
+                      "originTerminal": null,
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-31 01:50:00",
+                      "arrival": "2022-08-31 09:00:00",
+                      "flightTime": "14h 10m",
+                      "travelTime": "1d 14h 40m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["14h 10m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "7",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -19258,
+            "totalPrice": 383295,
+            "basePrice": 385150,
+            "taxes": 16199,
+            "ait": 1204,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -19258,
+            "ait": 1204,
+            "totalPrice": 383295,
+            "basePrice": 385150,
+            "equivalentBasePrice": -14809,
+            "taxes": 16199,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "G4",
+                "amount": 1427
+              },
+              {
+                "category": "PZ",
+                "amount": 356
+              },
+              {
+                "category": "QA",
+                "amount": 1427
+              },
+              {
+                "category": "R9",
+                "amount": 238
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQXFkTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 503076,
+        "basePrice": 506348,
+        "eqivqlBasePrice": 506348,
+        "taxes": 20465,
+        "platingCarrierName": "Qatar Airways",
+        "platingCarrier": "QR",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "QR",
+              "platingCarrierName": "Qatar Airways",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DOH",
+                  "toAirport": "Hamad International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 04:20:00",
+                  "arrival": "2022-08-30 07:00:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "643",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQWliTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FIWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DOH",
+                      "destinationName": "Hamad International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 04:20:00",
+                      "arrival": "2022-08-30 07:00:00",
+                      "flightTime": "5h 40m",
+                      "travelTime": "1d 4h 25m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["333"],
+                  "duration": ["5h 40m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "DOH",
+                  "fromAirport": "Hamad International Airport",
+                  "to": "LHR",
+                  "toAirport": "London Heathrow Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 09:05:00",
+                  "arrival": "2022-08-30 14:10:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "7",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQWliTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FuWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DOH",
+                      "originName": "Hamad International Airport",
+                      "originTerminal": null,
+                      "destination": "LHR",
+                      "destinationName": "London Heathrow Airport",
+                      "destinationTerminal": "4",
+                      "departure": "2022-08-30 09:05:00",
+                      "arrival": "2022-08-30 14:10:00",
+                      "flightTime": "7h 5m",
+                      "travelTime": "1d 1h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["7h 5m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "LHR",
+                  "fromAirport": "London Heathrow Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 17:00:00",
+                  "arrival": "2022-08-30 20:05:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "2659",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQWliTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FwWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "LHR",
+                      "originName": "London Heathrow Airport",
+                      "originTerminal": "3",
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-30 17:00:00",
+                      "arrival": "2022-08-30 20:05:00",
+                      "flightTime": "8h 5m",
+                      "travelTime": "1d 1h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["8h 5m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "7",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                }
+              ]
+            },
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "QR",
+              "platingCarrierName": "Qatar Airways",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DOH",
+                  "toAirport": "Hamad International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 04:20:00",
+                  "arrival": "2022-08-30 07:00:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "643",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQW1iTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FIWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": "1",
+                      "destination": "DOH",
+                      "destinationName": "Hamad International Airport",
+                      "destinationTerminal": null,
+                      "departure": "2022-08-30 04:20:00",
+                      "arrival": "2022-08-30 07:00:00",
+                      "flightTime": "5h 40m",
+                      "travelTime": "1d 4h 25m",
+                      "equipment": "Airbus-333"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["333"],
+                  "duration": ["5h 40m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "DOH",
+                  "fromAirport": "Hamad International Airport",
+                  "to": "LHR",
+                  "toAirport": "London Heathrow Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 09:05:00",
+                  "arrival": "2022-08-30 14:10:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "7",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQW1iTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FuWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DOH",
+                      "originName": "Hamad International Airport",
+                      "originTerminal": null,
+                      "destination": "LHR",
+                      "destinationName": "London Heathrow Airport",
+                      "destinationTerminal": "4",
+                      "departure": "2022-08-30 09:05:00",
+                      "arrival": "2022-08-30 14:10:00",
+                      "flightTime": "7h 5m",
+                      "travelTime": "1d 1h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["7h 5m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                },
+                {
+                  "from": "LHR",
+                  "fromAirport": "London Heathrow Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 19:30:00",
+                  "arrival": "2022-08-30 22:30:00",
+                  "airline": "Qatar Airways",
+                  "flightNumber": "2661",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQW1iTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FyWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "LHR",
+                      "originName": "London Heathrow Airport",
+                      "originTerminal": "3",
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "8",
+                      "departure": "2022-08-30 19:30:00",
+                      "arrival": "2022-08-30 22:30:00",
+                      "flightTime": "8h 0m",
+                      "travelTime": "1d 4h 10m",
+                      "equipment": "Boeing-772"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["772"],
+                  "duration": ["8h 0m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "7",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YJR4R1FO",
+                  "airlineCode": "QR"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -25317,
+            "totalPrice": 503076,
+            "basePrice": 506348,
+            "taxes": 20465,
+            "ait": 1580,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -25317,
+            "ait": 1580,
+            "totalPrice": 503076,
+            "basePrice": 506348,
+            "equivalentBasePrice": -19468,
+            "taxes": 20465,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "G4",
+                "amount": 1427
+              },
+              {
+                "category": "PZ",
+                "amount": 44
+              },
+              {
+                "category": "QA",
+                "amount": 1427
+              },
+              {
+                "category": "R9",
+                "amount": 238
+              },
+              {
+                "category": "UB",
+                "amount": 4578
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQXJkTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 530824,
+        "basePrice": 541669,
+        "eqivqlBasePrice": 541669,
+        "taxes": 14569,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 01:40:00",
+                  "arrival": "2022-08-30 04:30:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "585",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVFjTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FPWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "3",
+                      "departure": "2022-08-30 01:40:00",
+                      "arrival": "2022-08-30 04:30:00",
+                      "flightTime": "4h 50m",
+                      "travelTime": "22h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["4h 50m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOWBD7",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "BOS",
+                  "toAirport": "General Edward Lawrence Logan International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 08:20:00",
+                  "arrival": "2022-08-30 14:15:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "237",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVFjTjZBQUFBQUE9PXxhR3pFQUpWcVdES0F0WU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "BOS",
+                      "destinationName": "General Edward Lawrence Logan International Airport",
+                      "destinationTerminal": "E",
+                      "departure": "2022-08-30 08:20:00",
+                      "arrival": "2022-08-30 14:15:00",
+                      "flightTime": "13h 55m",
+                      "travelTime": "1d 2h 50m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["13h 55m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOWBD7",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "BOS",
+                  "fromAirport": "General Edward Lawrence Logan International Airport",
+                  "to": "EWR",
+                  "toAirport": "Newark Liberty International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 16:40:00",
+                  "arrival": "2022-08-30 18:30:00",
+                  "airline": "JetBlue Airways",
+                  "flightNumber": "2579",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQVFjTjZBQUFBQUE9PXxhR3pFQUpWcVdES0F2WU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "BOS",
+                      "originName": "General Edward Lawrence Logan International Airport",
+                      "originTerminal": "C",
+                      "destination": "EWR",
+                      "destinationName": "Newark Liberty International Airport",
+                      "destinationTerminal": "A",
+                      "departure": "2022-08-30 16:40:00",
+                      "arrival": "2022-08-30 18:30:00",
+                      "flightTime": "1h 50m",
+                      "travelTime": "1d 2h 50m",
+                      "equipment": "E90"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["E90"],
+                  "duration": ["1h 50m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "7",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "Y",
+                  "airlineCode": "B6"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -27083,
+            "totalPrice": 530824,
+            "basePrice": 541669,
+            "taxes": 14569,
+            "ait": 1669,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -27083,
+            "ait": 1669,
+            "totalPrice": 530824,
+            "basePrice": 541669,
+            "equivalentBasePrice": -20826,
+            "taxes": 14569,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "F6",
+                "amount": 825
+              },
+              {
+                "category": "ZR",
+                "amount": 118
+              },
+              {
+                "category": "AY",
+                "amount": 485
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XF",
+                "amount": 390
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQXNkTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 564071,
+        "basePrice": 576557,
+        "eqivqlBasePrice": 576557,
+        "taxes": 14569,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 01:40:00",
+                  "arrival": "2022-08-30 04:30:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "585",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQWxjTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FPWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "3",
+                      "departure": "2022-08-30 01:40:00",
+                      "arrival": "2022-08-30 04:30:00",
+                      "flightTime": "4h 50m",
+                      "travelTime": "22h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["4h 50m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOWBD7",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "BOS",
+                  "toAirport": "General Edward Lawrence Logan International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 08:20:00",
+                  "arrival": "2022-08-30 14:15:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "237",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQWxjTjZBQUFBQUE9PXxhR3pFQUpWcVdES0F0WU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "BOS",
+                      "destinationName": "General Edward Lawrence Logan International Airport",
+                      "destinationTerminal": "E",
+                      "departure": "2022-08-30 08:20:00",
+                      "arrival": "2022-08-30 14:15:00",
+                      "flightTime": "13h 55m",
+                      "travelTime": "1d 2h 50m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["13h 55m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOWBD7",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "BOS",
+                  "fromAirport": "General Edward Lawrence Logan International Airport",
+                  "to": "LGA",
+                  "toAirport": "La Guardia Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 16:00:00",
+                  "arrival": "2022-08-30 17:28:00",
+                  "airline": "JetBlue Airways",
+                  "flightNumber": "1031",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQWxjTjZBQUFBQUE9PXxhR3pFQUpWcVdES0F4WU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "BOS",
+                      "originName": "General Edward Lawrence Logan International Airport",
+                      "originTerminal": "C",
+                      "destination": "LGA",
+                      "destinationName": "La Guardia Airport",
+                      "destinationTerminal": "B",
+                      "departure": "2022-08-30 16:00:00",
+                      "arrival": "2022-08-30 17:28:00",
+                      "flightTime": "1h 28m",
+                      "travelTime": "1d 1h 48m",
+                      "equipment": "E90"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["E90"],
+                  "duration": ["1h 28m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "7",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YREFY5",
+                  "airlineCode": "B6"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -28828,
+            "totalPrice": 564071,
+            "basePrice": 576557,
+            "taxes": 14569,
+            "ait": 1773,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -28828,
+            "ait": 1773,
+            "totalPrice": 564071,
+            "basePrice": 576557,
+            "equivalentBasePrice": -22168,
+            "taxes": 14569,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "F6",
+                "amount": 825
+              },
+              {
+                "category": "ZR",
+                "amount": 118
+              },
+              {
+                "category": "AY",
+                "amount": 485
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XF",
+                "amount": 390
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      },
+      {
+        "uniqueTransID": "TLL70427186",
+        "itemCodeRef": "VExMNzA0MjcxODYtNjM3OTQ2MTc4NjkwNTQxNzgzfGFHekVBSlZxV0RLQXRkTjZBQUFBQUE9PXxVQXBpR2FsaWxlbw==",
+        "totalPrice": 566546,
+        "basePrice": 579154,
+        "eqivqlBasePrice": 579154,
+        "taxes": 14569,
+        "platingCarrierName": "Emirates Airlines",
+        "platingCarrier": "EK",
+        "refundable": true,
+        "directions": [
+          [
+            {
+              "from": "DAC",
+              "to": "NYC",
+              "fromAirport": "Hazrat Shahjalal International Airport",
+              "toAirport": "All Airports",
+              "platingCarrierCode": "EK",
+              "platingCarrierName": "Emirates Airlines",
+              "stops": 2,
+              "segments": [
+                {
+                  "from": "DAC",
+                  "fromAirport": "Hazrat Shahjalal International Airport",
+                  "to": "DXB",
+                  "toAirport": "Dubai International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 01:40:00",
+                  "arrival": "2022-08-30 04:30:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "585",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQThiTjZBQUFBQUE9PXxhR3pFQUpWcVdES0FPWU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DAC",
+                      "originName": "Hazrat Shahjalal International Airport",
+                      "originTerminal": null,
+                      "destination": "DXB",
+                      "destinationName": "Dubai International Airport",
+                      "destinationTerminal": "3",
+                      "departure": "2022-08-30 01:40:00",
+                      "arrival": "2022-08-30 04:30:00",
+                      "flightTime": "4h 50m",
+                      "travelTime": "22h 45m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["4h 50m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOWBD7",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "DXB",
+                  "fromAirport": "Dubai International Airport",
+                  "to": "BOS",
+                  "toAirport": "General Edward Lawrence Logan International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 08:20:00",
+                  "arrival": "2022-08-30 14:15:00",
+                  "airline": "Emirates Airlines",
+                  "flightNumber": "237",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQThiTjZBQUFBQUE9PXxhR3pFQUpWcVdES0F0WU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "DXB",
+                      "originName": "Dubai International Airport",
+                      "originTerminal": "3",
+                      "destination": "BOS",
+                      "destinationName": "General Edward Lawrence Logan International Airport",
+                      "destinationTerminal": "E",
+                      "departure": "2022-08-30 08:20:00",
+                      "arrival": "2022-08-30 14:15:00",
+                      "flightTime": "13h 55m",
+                      "travelTime": "1d 2h 50m",
+                      "equipment": "Boeing-77W"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["77W"],
+                  "duration": ["13h 55m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "9",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YOWBD7",
+                  "airlineCode": "EK"
+                },
+                {
+                  "from": "BOS",
+                  "fromAirport": "General Edward Lawrence Logan International Airport",
+                  "to": "JFK",
+                  "toAirport": "John F Kennedy International Airport",
+                  "group": 0,
+                  "departure": "2022-08-30 18:08:00",
+                  "arrival": "2022-08-30 19:29:00",
+                  "airline": "JetBlue Airways",
+                  "flightNumber": "2017",
+                  "segmentCodeRef": "YUd6RUFKVnFXREtBSlpONkFBQUFBQT09fGFHekVBSlZxV0RLQThiTjZBQUFBQUE9PXxhR3pFQUpWcVdES0F6WU42QUFBQUFBPT0=",
+                  "details": [
+                    {
+                      "origin": "BOS",
+                      "originName": "General Edward Lawrence Logan International Airport",
+                      "originTerminal": "C",
+                      "destination": "JFK",
+                      "destinationName": "John F Kennedy International Airport",
+                      "destinationTerminal": "5",
+                      "departure": "2022-08-30 18:08:00",
+                      "arrival": "2022-08-30 19:29:00",
+                      "flightTime": "1h 21m",
+                      "travelTime": "1d 3h 49m",
+                      "equipment": "E90"
+                    }
+                  ],
+                  "serviceClass": "Economy",
+                  "plane": ["E90"],
+                  "duration": ["1h 21m"],
+                  "techStops": [0],
+                  "bookingClass": "Y",
+                  "bookingCount": "7",
+                  "baggage": [
+                    {
+                      "units": "Kilograms",
+                      "amount": 2
+                    }
+                  ],
+                  "fareBasisCode": "YREFY5",
+                  "airlineCode": "B6"
+                }
+              ]
+            }
+          ]
+        ],
+        "bookingComponents": [
+          {
+            "discountPrice": -28958,
+            "totalPrice": 566546,
+            "basePrice": 579154,
+            "taxes": 14569,
+            "ait": 1781,
+            "fareReference": "W3siSWQiOjEsIkRpc2NvdW50VHlwZSI6MiwiVHlwZSI6MSwiVmFsdWUiOjUuMDAsIklzQWdlbnQiOmZhbHNlLCJJc0RlZmF1bHQiOnRydWV9XQ==",
+            "agentAdditionalPrice": 0
+          }
+        ],
+        "passengerFares": {
+          "adt": {
+            "discountPrice": -28958,
+            "ait": 1781,
+            "totalPrice": 566546,
+            "basePrice": 579154,
+            "equivalentBasePrice": -22268,
+            "taxes": 14569,
+            "serviceCharge": 0,
+            "taxesBreakdown": [
+              {
+                "category": "BD",
+                "amount": 500
+              },
+              {
+                "category": "OW",
+                "amount": 3000
+              },
+              {
+                "category": "P7",
+                "amount": 866
+              },
+              {
+                "category": "P8",
+                "amount": 866
+              },
+              {
+                "category": "UT",
+                "amount": 4000
+              },
+              {
+                "category": "F6",
+                "amount": 825
+              },
+              {
+                "category": "ZR",
+                "amount": 118
+              },
+              {
+                "category": "AY",
+                "amount": 485
+              },
+              {
+                "category": "US",
+                "amount": 1706
+              },
+              {
+                "category": "XA",
+                "amount": 343
+              },
+              {
+                "category": "XF",
+                "amount": 390
+              },
+              {
+                "category": "XY",
+                "amount": 606
+              },
+              {
+                "category": "YC",
+                "amount": 529
+              },
+              {
+                "category": "E5",
+                "amount": 335
+              }
+            ]
+          },
+          "cnn": null,
+          "inf": null,
+          "ins": null
+        },
+        "passengerCounts": {
+          "cnn": 0,
+          "inf": 0,
+          "adt": 1,
+          "ins": 0
+        },
+        "bookable": true
+      }
+    ],
+    "airlineFilters": [
+      {
+        "airlineCode": "TK",
+        "airlineName": "Turkish Airlines",
+        "totalFlights": 6,
+        "minPrice": 70980
+      },
+      {
+        "airlineCode": "EK",
+        "airlineName": "Emirates Airlines",
+        "totalFlights": 9,
+        "minPrice": 77790
+      },
+      {
+        "airlineCode": "QR",
+        "airlineName": "Qatar Airways",
+        "totalFlights": 6,
+        "minPrice": 124525
+      },
+      {
+        "airlineCode": "GF",
+        "airlineName": "Gulf Air",
+        "totalFlights": 2,
+        "minPrice": 160702
+      }
+    ],
+    "minMaxPrice": {
+      "minPrice": 70980,
+      "maxPrice": 566546
+    },
+    "stops": [1, 2],
+    "totalFlights": 23
+  },
+  "item2": [
+    {
+      "apiRef": 1,
+      "uniqueTransID": "TLL70427186",
+      "isSuccess": false,
+      "requestTime": "28-Jul-2022 03:11:09 PM",
+      "responseTime": "28-Jul-2022 03:11:11 PM",
+      "conversionTime": "28-Jul-2022 03:11:11 PM",
+      "timeTicks": 637946178690233745,
+      "message": null
+    },
+    {
+      "apiRef": 2,
+      "uniqueTransID": "TLL70427186",
+      "isSuccess": true,
+      "requestTime": "28-Jul-2022 03:11:09 PM",
+      "responseTime": "28-Jul-2022 03:11:12 PM",
+      "conversionTime": "28-Jul-2022 03:11:12 PM",
+      "timeTicks": 637946178690541783,
+      "message": null
+    },
+    {
+      "apiRef": 5,
+      "uniqueTransID": "TLL70427186",
+      "isSuccess": false,
+      "requestTime": "28-Jul-2022 03:11:09 PM",
+      "responseTime": "28-Jul-2022 03:11:10 PM",
+      "conversionTime": "28-Jul-2022 03:11:10 PM",
+      "timeTicks": 637946178690745193,
+      "message": null
+    },
+    {
+      "apiRef": 6,
+      "uniqueTransID": "TLL70427186",
+      "isSuccess": false,
+      "requestTime": "28-Jul-2022 03:11:09 PM",
+      "responseTime": "28-Jul-2022 03:11:10 PM",
+      "conversionTime": "28-Jul-2022 03:11:10 PM",
+      "timeTicks": 637946178690973047,
+      "message": null
+    },
+    {
+      "apiRef": 3,
+      "uniqueTransID": "TLL70427186",
+      "isSuccess": true,
+      "requestTime": "28-Jul-2022 03:11:09 PM",
+      "responseTime": "28-Jul-2022 03:11:15 PM",
+      "conversionTime": "28-Jul-2022 03:11:15 PM",
+      "timeTicks": 637946178691206434,
+      "message": null
+    }
+  ]
+}

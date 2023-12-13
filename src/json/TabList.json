@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Flight Details"
+  },
+  {
+    "id": 2,
+    "title": "Fare Summary"
+  },
+  {
+    "id": 3,
+    "title": "Discount & Gross"
+  },
+  {
+    "id": 4,
+    "title": "Baggage"
+  },
+  {
+    "id": 5,
+    "title": "Fare Rules"
+  },
+  {
+    "id": 6,
+    "title": "Fare Policy"
+  }
+]

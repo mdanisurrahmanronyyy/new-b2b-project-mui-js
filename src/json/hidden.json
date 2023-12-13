@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "module": "flight-details",
+    "section": "Apply Promo Code"
+  },
+  {
+    "id": 2,
+    "module": "search",
+    "section": "Hotel & Tour Packages"
+  },
+  {
+    "id": 3,
+    "module": "search",
+    "section": "Round-Trip -> Return Date Cross"
+  },
+  {
+    "id": 4,
+    "module": "flights",
+    "section": "Round-Trip -> Return Date Cross"
+  }
+]

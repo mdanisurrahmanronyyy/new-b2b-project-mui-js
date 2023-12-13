@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Payment",
+      "imgSrc": "/assets/images/payment.png",
+      "url": "/"
+    },
+    {
+      "id": "2",
+      "title": "Biman Bangladesh",
+      "imgSrc": "/assets/images/bb.png",
+      "url": "/"
+    },
+    {
+      "id": "3",
+      "title": "US-Bangla",
+      "imgSrc": "/assets/images/us.png",
+      "url": "/"
+    },
+    {
+      "id": "4",
+      "title": "Air Astra",
+      "imgSrc": "/assets/images/ar.png",
+      "url": "/"
+    },
+    {
+      "id": "5",
+      "title": "Emirates",
+      "imgSrc": "/assets/images/em.png",
+      "url": "/"
+    },
+    {
+      "id": "6",
+      "title": "Qatar Airways",
+      "imgSrc": "/assets/images/qa.png",
+      "url": "/"
+    },
+    {
+      "id": "7",
+      "title": "Notice",
+      "imgSrc": "/assets/images/notice.png",
+      "url": "/"
+    },
+    {
+      "id": "8",
+      "title": "Indigo",
+      "imgSrc": "/assets/images/indigo.png",
+      "url": "/"
+    },
+    {
+      "id": "9",
+      "title": "airArabia",
+      "imgSrc": "/assets/images/airArabia.png",
+      "url": "/"
+    }
+  ]
+}
